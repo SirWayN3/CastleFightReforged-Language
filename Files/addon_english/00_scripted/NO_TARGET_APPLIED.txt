@@ -1,0 +1,87 @@
+	"DOTA_Tooltip_cf_bless_crusader"			"Blessed"
+	"DOTA_Tooltip_cf_bless_crusader_Description"			"Bonus Armor and Bonus HP Regen"
+
+	"DOTA_Tooltip_cf_mo_cr_chamber_disabled"			"Chamber Results"
+	"DOTA_Tooltip_cf_mo_cr_chamber_disabled_Description"			"Too bad... Silenced, Rooted and Disarmed"
+
+	"DOTA_Tooltip_cf_mo_cr_defend"			"Defend"
+	"DOTA_Tooltip_cf_mo_cr_defend_Description"			""
+
+	"DOTA_Tooltip_cf_bless_paladin"			"Blessed"
+	"DOTA_Tooltip_cf_bless_paladin_Description"			"Bonus Armor, Bonus HP and Bonus HP Regen"
+
+	"DOTA_Tooltip_cf_mo_cr_ressurect_paladin"			"Ressurect Aura Owner"
+	"DOTA_Tooltip_cf_mo_cr_ressurect_paladin_Description"			""
+
+	"DOTA_Tooltip_cf_mo_cr_ressurect_paladin_bonus"			"Ressurect Aura Bonus"
+	"DOTA_Tooltip_cf_mo_cr_ressurect_paladin_bonus_Description"			""
+
+	"DOTA_Tooltip_cf_mo_cr_aura_paladin"			"Armor Aura Owner"
+	"DOTA_Tooltip_cf_mo_cr_aura_paladin_Description"			""
+
+	"DOTA_Tooltip_cf_mo_cr_aura_paladin_bonus"			"Bonus Armor"
+	"DOTA_Tooltip_cf_mo_cr_aura_paladin_bonus_Description"			""
+
+	"DOTA_Tooltip_cf_mo_cr_aura"			"Aura Dummy Owner"
+	"DOTA_Tooltip_cf_mo_cr_aura_Description"			""
+
+	"DOTA_Tooltip_cf_mo_cr_aura_bonus"			"Aura Dummy Bonus"
+	"DOTA_Tooltip_cf_mo_cr_aura_bonus_Description"			""
+
+	"DOTA_Tooltip_cf_mo_cr_cleave"			"Cleave Attack"
+	"DOTA_Tooltip_cf_mo_cr_cleave_Description"			""
+
+	"DOTA_Tooltip_cf_mo_critical"			"Crit Dummy1"
+	"DOTA_Tooltip_cf_mo_critical_Description"			""
+
+	"DOTA_Tooltip_crit"			"Crit Dummy2"
+	"DOTA_Tooltip_crit_Description"			""
+
+	"DOTA_Tooltip_cf_mo_cr_evade"			"Evasion"
+	"DOTA_Tooltip_cf_mo_cr_evade_Description"			""
+
+	"DOTA_Tooltip_cf_mo_cr_splash"			"Splash Attack"
+	"DOTA_Tooltip_cf_mo_cr_splash_Description"			""
+
+	"DOTA_Tooltip_cf_mo_cr_holy_power"			"Holy Power"
+	"DOTA_Tooltip_cf_mo_cr_holy_power_Description"			"Gives Bonus Attack Speed"
+
+	"DOTA_Tooltip_cf_mo_bu_heroicshrine_caster"			"Call to Arms - Caster"
+	"DOTA_Tooltip_cf_mo_bu_heroicshrine_caster_Description"			""
+
+	"DOTA_Tooltip_cf_mo_bu_heroicshrine_bonus"			"Call to Arms"
+	"DOTA_Tooltip_cf_mo_bu_heroicshrine_bonus_Description"			"Chance to create a double spawn."
+
+	"DOTA_Tooltip_cf_mo_bu_autocast"			"Building AutoCast"
+	"DOTA_Tooltip_cf_mo_bu_autocast_Description"			"Performing Autocast on Abilities..."
+
+	"DOTA_Tooltip_cf_mo_bu_treasurebox"			"Treasure Box"
+	"DOTA_Tooltip_cf_mo_bu_treasurebox_Description"			"Gives Bonus Income"
+
+	"DOTA_Tooltip_modifier_builder_repairing"			"Repairing"
+	"DOTA_Tooltip_modifier_builder_repairing_Description"			"Doing my job as a builder..."
+
+	"DOTA_Tooltip_modifier_repairing"			"Repairing"
+	"DOTA_Tooltip_modifier_repairing_Description"			"Getting repaired."
+
+	"DOTA_Tooltip_cf_mo_rescuestrike"			"Rescue Strike Charges"
+	"DOTA_Tooltip_cf_mo_rescuestrike_Description"			""
+
+	"DOTA_Tooltip_cf_mo_item_blast_staff_data"			"Blast Staff"
+	"DOTA_Tooltip_cf_mo_item_blast_staff_data_Description"			"Pew Pew"
+
+	"DOTA_Tooltip_cf_mo_item_runeofrepair_aura"			"Repair Aura Self"
+	"DOTA_Tooltip_cf_mo_item_runeofrepair_aura_Description"			""
+
+	"DOTA_Tooltip_cf_mo_item_bassdrum_caster"			"Bass Drums Owner"
+	"DOTA_Tooltip_cf_mo_item_bassdrum_caster_Description"			""
+
+	"DOTA_Tooltip_co_mo_item_bassdrum_bonus"			"Bass Drums"
+	"DOTA_Tooltip_co_mo_item_bassdrum_bonus_Description"			"Gives Bonus Damage"
+
+	"DOTA_Tooltip_co_mo_item_bassline_owner"			"Bass Line Owner"
+	"DOTA_Tooltip_co_mo_item_bassline_owner_Description"			""
+
+	"DOTA_Tooltip_co_mo_item_bassline_bonus"			"Bass Line"
+	"DOTA_Tooltip_co_mo_item_bassline_bonus_Description"			"Gives Bonus Movespeed and Attackspeed"
+
