@@ -28,9 +28,17 @@
 	"DOTA_Tooltip_Ability_cf_01_ab_human_cr05_02_Lore"			""
 
 
+	"DOTA_Tooltip_cf_bless_crusader"			"Blessed"
+	"DOTA_Tooltip_cf_bless_crusader_Description"			"Bonus Armor and Bonus HP Regen"
+
+
 	"DOTA_Tooltip_Ability_cf_01_ab_human_cr05_03"			"Bless Unit"
 	"DOTA_Tooltip_Ability_cf_01_ab_human_cr05_03_Description"			"Bonus Armor: %armor%<br>Bonus HP Regen: %hp_regen%<br>Duration: %duration%s"
 	"DOTA_Tooltip_Ability_cf_01_ab_human_cr05_03_Lore"			""
+
+
+	"DOTA_Tooltip_cf_mo_cr_chamber_disabled"			"Chamber Results"
+	"DOTA_Tooltip_cf_mo_cr_chamber_disabled_Description"			"Too bad... Silenced, Rooted and Disarmed"
 
 
 	"DOTA_Tooltip_Ability_cf_01_ab_human_cr06_01"			"Chamber"
@@ -41,6 +49,10 @@
 	"DOTA_Tooltip_Ability_cf_01_ab_human_cr07_01"			"Evasion"
 	"DOTA_Tooltip_Ability_cf_01_ab_human_cr07_01_Description"			"Evade Chance: %evasion% %"
 	"DOTA_Tooltip_Ability_cf_01_ab_human_cr07_01_Lore"			""
+
+
+	"DOTA_Tooltip_cf_mo_cr_defend"			"Defend"
+	"DOTA_Tooltip_cf_mo_cr_defend_Description"			""
 
 
 	"DOTA_Tooltip_Ability_cf_01_ab_human_cr07_02"			"Defend"
@@ -73,14 +85,34 @@
 	"DOTA_Tooltip_Ability_cf_01_ab_human_cr10_02_Lore"			""
 
 
+	"DOTA_Tooltip_cf_bless_paladin"			"Blessed"
+	"DOTA_Tooltip_cf_bless_paladin_Description"			"Bonus Armor, Bonus HP and Bonus HP Regen"
+
+
 	"DOTA_Tooltip_Ability_cf_01_ab_human_cr10_03"			"Bless Unit"
 	"DOTA_Tooltip_Ability_cf_01_ab_human_cr10_03_Description"			"Bonus Armor: %armor%<br>Bonus HP Regen: %hp_regen%<br>Duration: %duration%s<br>Bonus Max HP: %bonus_hp%"
 	"DOTA_Tooltip_Ability_cf_01_ab_human_cr10_03_Lore"			""
 
 
+	"DOTA_Tooltip_cf_mo_cr_ressurect_paladin"			"Ressurect Aura Owner"
+	"DOTA_Tooltip_cf_mo_cr_ressurect_paladin_Description"			""
+
+
+	"DOTA_Tooltip_cf_mo_cr_ressurect_paladin_bonus"			"Ressurect Aura Bonus"
+	"DOTA_Tooltip_cf_mo_cr_ressurect_paladin_bonus_Description"			""
+
+
 	"DOTA_Tooltip_Ability_cf_01_ab_human_cr10_04"			"Ressurect Units"
 	"DOTA_Tooltip_Ability_cf_01_ab_human_cr10_04_Description"			"Ressurect Dead Friendly Units."
 	"DOTA_Tooltip_Ability_cf_01_ab_human_cr10_04_Lore"			""
+
+
+	"DOTA_Tooltip_cf_mo_cr_aura_paladin"			"Armor Aura Owner"
+	"DOTA_Tooltip_cf_mo_cr_aura_paladin_Description"			""
+
+
+	"DOTA_Tooltip_cf_mo_cr_aura_paladin_bonus"			"Bonus Armor"
+	"DOTA_Tooltip_cf_mo_cr_aura_paladin_bonus_Description"			""
 
 
 	"DOTA_Tooltip_Ability_cf_01_ab_human_cr10_05"			"Armor Aura"
@@ -168,6 +200,10 @@
 	"DOTA_Tooltip_Ability_cf_01_ab_human_bu06_01_Lore"			""
 
 
+	"DOTA_Tooltip_cf_mo_cr_holy_power"			"Holy Power"
+	"DOTA_Tooltip_cf_mo_cr_holy_power_Description"			"Gives Bonus Attack Speed"
+
+
 	"DOTA_Tooltip_Ability_cf_01_ab_human_bu07_01"			"Holy Power"
 	"DOTA_Tooltip_Ability_cf_01_ab_human_bu07_01_Description"			"Gives Allied Units Bonus Attack Speed"
 	"DOTA_Tooltip_Ability_cf_01_ab_human_bu07_01_Lore"			""
@@ -176,6 +212,14 @@
 	"DOTA_Tooltip_Ability_cf_01_ab_human_bu08_01"			"Artillery Attacks"
 	"DOTA_Tooltip_Ability_cf_01_ab_human_bu08_01_Description"			"Artillery Launches an Attack into the enemy Base, Target Position is chosen by Random."
 	"DOTA_Tooltip_Ability_cf_01_ab_human_bu08_01_Lore"			""
+
+
+	"DOTA_Tooltip_cf_mo_bu_heroicshrine_caster"			"Call to Arms - Caster"
+	"DOTA_Tooltip_cf_mo_bu_heroicshrine_caster_Description"			""
+
+
+	"DOTA_Tooltip_cf_mo_bu_heroicshrine_bonus"			"Call to Arms"
+	"DOTA_Tooltip_cf_mo_bu_heroicshrine_bonus_Description"			"Chance to create a double spawn."
 
 
 	"DOTA_Tooltip_Ability_cf_01_ab_human_bu10_01"			"Call to Arms"

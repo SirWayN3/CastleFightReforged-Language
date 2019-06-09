@@ -53,9 +53,21 @@
 	"DOTA_Tooltip_Ability_cf_00_ab_builder_blink_Lore"			""
 
 
+	"DOTA_Tooltip_modifier_builder_repairing"			"Repairing"
+	"DOTA_Tooltip_modifier_builder_repairing_Description"			"Doing my job as a builder..."
+
+
+	"DOTA_Tooltip_modifier_repairing"			"Repairing"
+	"DOTA_Tooltip_modifier_repairing_Description"			"Getting repaired."
+
+
 	"DOTA_Tooltip_Ability_cf_00_ab_builder_repair"			"Repair"
 	"DOTA_Tooltip_Ability_cf_00_ab_builder_repair_Description"			"Repair Buildings."
 	"DOTA_Tooltip_Ability_cf_00_ab_builder_repair_Lore"			""
+
+
+	"DOTA_Tooltip_cf_mo_rescuestrike"			"Rescue Strike Charges"
+	"DOTA_Tooltip_cf_mo_rescuestrike_Description"			""
 
 
 	"DOTA_Tooltip_Ability_cf_00_ab_builder_rescuestrike"			"Rescue Strike"
